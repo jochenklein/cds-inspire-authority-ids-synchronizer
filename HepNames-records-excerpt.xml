@@ -1,0 +1,404 @@
+<collection>
+<record>
+  <controlfield tag="001">981872</controlfield>
+  <controlfield tag="005">20150923131831.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRE</subfield>
+    <subfield code="a">INSPIRE-00440376</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">BAI</subfield>
+    <subfield code="a">M.Zyskin.1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">ORCID</subfield>
+    <subfield code="a">0000-0001-5882-6823</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Zyskin, Maxim V.</subfield>
+    <subfield code="q">Maxim V. Zyskin</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="z">Current</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Hewlett-Packard, Bristol</subfield>
+    <subfield code="z">Current</subfield>
+    <subfield code="z">906342</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Rutgers U., Piscataway</subfield>
+    <subfield code="r">PHD</subfield>
+    <subfield code="t">1996</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:981872</subfield>
+    <subfield code="p">INSPIRE:HepNames</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">2001-07-27</subfield>
+    <subfield code="x">2015-09-23</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES-19</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">USEFUL</subfield>
+  </datafield>
+</record>
+
+<record>
+  <controlfield tag="001">1010819</controlfield>
+  <controlfield tag="005">20150923135918.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CERN</subfield>
+    <subfield code="a">CERN-389900</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRE</subfield>
+    <subfield code="a">INSPIRE-00146525</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">BAI</subfield>
+    <subfield code="a">J.R.Ellis.1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">Wikipedia</subfield>
+    <subfield code="a">John_Ellis_(physicist)</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Ellis, John Richard</subfield>
+    <subfield code="g">ACTIVE</subfield>
+    <subfield code="q">John Richard Ellis</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">King's Coll. London</subfield>
+    <subfield code="r">SENIOR</subfield>
+    <subfield code="s">2010</subfield>
+    <subfield code="z">Current</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">CERN</subfield>
+    <subfield code="m">john.ellis@cern.ch</subfield>
+    <subfield code="r">SENIOR</subfield>
+    <subfield code="s">1973</subfield>
+    <subfield code="t">2010</subfield>
+    <subfield code="z">902725</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Caltech</subfield>
+    <subfield code="r">PD</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">SLAC</subfield>
+    <subfield code="r">PD</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Cambridge U.</subfield>
+    <subfield code="r">PHD</subfield>
+    <subfield code="s">1967</subfield>
+    <subfield code="t">1971</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Cambridge U.</subfield>
+    <subfield code="r">UG</subfield>
+    <subfield code="s">1964</subfield>
+    <subfield code="t">1967</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES-326275</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">USEFUL</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:1010819</subfield>
+    <subfield code="p">INSPIRE:HepNames</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1999-06-18</subfield>
+    <subfield code="x">2015-08-03</subfield>
+  </datafield>
+  <datafield tag="711" ind1=" " ind2=" ">
+    <subfield code="a">C10-02-24</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2=" ">
+    <subfield code="u">https://www.kcl.ac.uk/nms/depts/physics/people/academicstaff/ellis.aspx</subfield>
+  </datafield>
+  <datafield tag="400" ind1=" " ind2=" ">
+    <subfield code="a">Ellis, Jonathan Richard</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+    <subfield code="a">HEP-TH</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+    <subfield code="a">HEP-PH</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+    <subfield code="a">ASTRO-PH</subfield>
+  </datafield>
+</record>
+
+<record>
+  <controlfield tag="001">1010832</controlfield>
+  <controlfield tag="005">20150923135919.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRE</subfield>
+    <subfield code="a">INSPIRE-00079322</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CERN</subfield>
+    <subfield code="a">CERN-389882</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">BAI</subfield>
+    <subfield code="a">M.Ellert.1</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Ellert, Mattias</subfield>
+    <subfield code="g">ACTIVE</subfield>
+    <subfield code="q">Mattias Ellert</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">mattias.ellert@fysast.uu.se</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">mattias.ellert@cern.ch</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Uppsala U.</subfield>
+    <subfield code="r"></subfield>
+    <subfield code="s"></subfield>
+    <subfield code="t"></subfield>
+    <subfield code="z">Current</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Uppsala U.</subfield>
+    <subfield code="r">PHD</subfield>
+    <subfield code="s"></subfield>
+    <subfield code="t">2001</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Uppsala U.</subfield>
+    <subfield code="r">UG</subfield>
+    <subfield code="s"></subfield>
+    <subfield code="t"></subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+    <subfield code="a">HEP-EX</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">webform</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="d">2009-01-26</subfield>
+  </datafield>
+  <datafield tag="693" ind1=" " ind2=" ">
+    <subfield code="e">CERN-LHC-ATLAS</subfield>
+    <subfield code="0">1108541</subfield>
+  </datafield>
+  <datafield tag="693" ind1=" " ind2=" ">
+    <subfield code="e">CERN-LEP-DELPHI</subfield>
+    <subfield code="0">1109312</subfield>
+  </datafield>
+  <datafield tag="701" ind1=" " ind2=" ">
+    <subfield code="a">Ekelof, Tord J.C.</subfield>
+    <subfield code="i">INSPIRE-00079263</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2=" ">
+    <subfield code="u">http://www.tsl.uu.se/~ellert/</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:1010832</subfield>
+    <subfield code="p">INSPIRE:HepNames</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1996-06-22</subfield>
+    <subfield code="x">2014-03-07</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES-326402</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">USEFUL</subfield>
+  </datafield>
+</record>
+
+<record>
+  <controlfield tag="001">1010849</controlfield>
+  <controlfield tag="005">20150923135919.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRE</subfield>
+    <subfield code="a">INSPIRE-00079313</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CERN</subfield>
+    <subfield code="a">CERN-389853</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">J.E.Elias.1</subfield>
+    <subfield code="9">BAI</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Elias, John E.</subfield>
+    <subfield code="g">DECEASED</subfield>
+    <subfield code="q">John E. Elias</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Fermilab</subfield>
+    <subfield code="r">SENIOR</subfield>
+    <subfield code="s">1973</subfield>
+    <subfield code="t">2005</subfield>
+    <subfield code="z">902796</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">MIT</subfield>
+    <subfield code="r">PHD</subfield>
+    <subfield code="t">1970</subfield>
+    <subfield code="z">907455</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Rensselaer Poly.</subfield>
+    <subfield code="r">UG</subfield>
+    <subfield code="z">903154</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+    <subfield code="a">HEP-EX</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">webform</subfield>
+  </datafield>
+  <datafield tag="693" ind1=" " ind2=" ">
+    <subfield code="e">CERN-LHC-CMS</subfield>
+    <subfield code="0">1108642</subfield>
+  </datafield>
+  <datafield tag="701" ind1=" " ind2=" ">
+    <subfield code="a">Kendall, Henry W.</subfield>
+    <subfield code="i">INSPIRE-00082550</subfield>
+  </datafield>
+  <datafield tag="701" ind1=" " ind2=" ">
+    <subfield code="a">Friedman, Jerome I.</subfield>
+    <subfield code="i">INSPIRE-00143991</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2=" ">
+    <subfield code="u">http://www.fnal.gov/pub/today/archive/archive_2009/today09-10-16.html</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:1010849</subfield>
+    <subfield code="p">INSPIRE:HepNames</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1995-07-21</subfield>
+    <subfield code="x">2015-04-02</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES-326593</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">USEFUL</subfield>
+  </datafield>
+</record>
+
+<record>
+  <controlfield tag="001">1010851</controlfield>
+  <controlfield tag="005">20160223214805.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">INSPIRE-00079305</subfield>
+    <subfield code="9">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">CERN</subfield>
+    <subfield code="a">CERN-389849</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">BAI</subfield>
+    <subfield code="a">D.Elia.1</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">0000-0001-6351-2378</subfield>
+    <subfield code="9">ORCID</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Elia, Domenico</subfield>
+    <subfield code="g">ACTIVE</subfield>
+    <subfield code="q">Domenico Elia</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="m">domenico.elia@cern.ch</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">INFN, Bari</subfield>
+    <subfield code="r">STAFF</subfield>
+    <subfield code="s">2000</subfield>
+    <subfield code="t"></subfield>
+    <subfield code="z">Current</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Bari U.</subfield>
+    <subfield code="r">UG</subfield>
+    <subfield code="s"></subfield>
+    <subfield code="t">1995</subfield>
+    <subfield code="z"></subfield>
+    <subfield code="z">902660</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+    <subfield code="a">HEP-EX</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+    <subfield code="a">NUCL-EX</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="a">webform</subfield>
+  </datafield>
+  <datafield tag="670" ind1=" " ind2=" ">
+    <subfield code="d">2010-08-23</subfield>
+  </datafield>
+  <datafield tag="693" ind1=" " ind2=" ">
+    <subfield code="e">CERN-LHC-ALICE</subfield>
+    <subfield code="0">1110642</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2=" ">
+    <subfield code="u">http://www.ba.infn.it/~finuda/elia.html</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:1010851</subfield>
+    <subfield code="p">INSPIRE:HepNames</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1996-06-22</subfield>
+    <subfield code="x">2016-02-23</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES-326615</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">USEFUL</subfield>
+  </datafield>
+</record>
+</collection>
