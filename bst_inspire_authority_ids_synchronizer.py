@@ -145,9 +145,15 @@ def parse_inspire_xml(xml_content):
 
         for datafield in record.xpath("datafield[@tag='035']"):
             if datafield.xpath("subfield[@code='9' and text()='INSPIRE']"):
-                inspire_id = datafield.find("subfield[@code='a']").text
+                try:
+                    inspire_id = datafield.find("subfield[@code='a']").text
+                except AttributeError:
+                    pass
             elif datafield.xpath("subfield[@code='9' and text()='CERN']"):
-                cern_id = datafield.find("subfield[@code='a']").text
+                try:
+                    cern_id = datafield.find("subfield[@code='a']").text
+                except AttributeError:
+                    pass
 
         if inspire_id and cern_id:
             authority_ids[cern_id] = inspire_id

@@ -401,4 +401,68 @@
     <subfield code="a">USEFUL</subfield>
   </datafield>
 </record>
+
+<record>
+  <controlfield tag="001">982074</controlfield>
+  <controlfield tag="005">20151026091419.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">BAI</subfield>
+    <subfield code="a">Guo.Sheng.Zhu.1</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Zhu, Guo-sheng</subfield>
+    <subfield code="q">Guo-sheng Zhu</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Syracuse U.</subfield>
+    <subfield code="r">PHD</subfield>
+    <subfield code="t">1994</subfield>
+  </datafield>
+  <datafield tag="371" ind1=" " ind2=" ">
+    <subfield code="a">Beijing,Inst. High Energy Phys.</subfield>
+    <subfield code="r">MAS</subfield>
+    <subfield code="s">1984</subfield>
+    <subfield code="t">1987</subfield>
+  </datafield>
+  <datafield tag="400" ind1=" " ind2=" ">
+    <subfield code="a">Zhu, Guosheng</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="a">HEP-EX</subfield>
+  </datafield>
+  <datafield tag="693" ind1=" " ind2=" ">
+    <subfield code="e">BEPC-BES</subfield>
+    <subfield code="0">1110451</subfield>
+  </datafield>
+  <datafield tag="701" ind1=" " ind2=" ">
+    <subfield code="a">Zhou, Yue Hua</subfield>
+    <subfield code="g">master</subfield>
+  </datafield>
+  <datafield tag="880" ind1=" " ind2=" ">
+    <subfield code="a">朱国胜</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:982074</subfield>
+    <subfield code="p">INSPIRE:HepNames</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">2001-07-27</subfield>
+    <subfield code="x">2015-10-26</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES-2070</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEPNAMES</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">USEFUL</subfield>
+  </datafield>
+</record>
 </collection>
