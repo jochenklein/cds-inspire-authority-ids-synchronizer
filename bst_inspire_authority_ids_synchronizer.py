@@ -20,7 +20,10 @@ import urllib
 
 from lxml import etree
 
-from invenio.bibtask import task_low_level_submission, write_message
+from invenio.bibtask import (
+    task_low_level_submission,
+    task_sleep_now_if_required,
+    write_message)
 from invenio.config import CFG_TMPDIR
 from invenio.search_engine import perform_request_search
 from invenio.search_engine_utils import get_fieldvalues
@@ -197,11 +200,12 @@ def get_ccid(record_id):
     # Consider records having no INSPIRE id
     for control_number in get_fieldvalues(record_id, "035__a"):
         if control_number.startswith("AUTHOR|(INSPIRE)"):
-            break
+            return None
         elif control_number.startswith("AUTHOR|(SzGeCERN)"):
-            _, _, cern_id = control_number.partition("AUTHOR|(SzGeCERN)")
+            cern_id = control_number.replace("AUTHOR|(SzGeCERN)", "")
 
     return cern_id
+
 
 def synchronize(record_ids, authority_ids, dest_xml):
     """Synchronize record_ids with authority_ids.
@@ -247,6 +251,11 @@ def synchronize(record_ids, authority_ids, dest_xml):
 
             # Append record to the output string
             output += record.format(record_id, inspire_id)
+            write_message(
+                "Info: INSPIRE authority id '{0}' has been added to "
+                "record '{1}'".format(inspire_id, record_id))
+
+            task_sleep_now_if_required()
         except KeyError:
             pass
 
@@ -274,6 +283,7 @@ def synchronize(record_ids, authority_ids, dest_xml):
                 "Error: failed to write updates to '{0}'. ({1})".format(
                     dest_xml, e),
                 sys.stderr)
+            raise
     else:
         write_message("Info: no updates for records have been found")
 
@@ -284,11 +294,15 @@ def bst_inspire_authority_ids_synchronizer(
 
     :param string url: valid URL to the gzip (.gz) file
     :param string tmp_dir: existing directory path for temporary files
-    """ 
+    """
     xml_content = get_inspire_dump(
         url, os.path.join(tmp_dir, SYNC_LOCAL_INSPIRE_RECORDS_FILE_NAME))
 
+    task_sleep_now_if_required()
+
     authority_ids = parse_inspire_xml(xml_content)
+
+    task_sleep_now_if_required()
 
     if authority_ids:
         record_ids = get_record_ids()
