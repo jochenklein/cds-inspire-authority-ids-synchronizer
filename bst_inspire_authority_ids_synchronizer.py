@@ -36,12 +36,6 @@ SYNC_LOCAL_INSPIRE_RECORDS_FILE_NAME = "HepNames-records.xml.gz"
 SYNC_LOCAL_CDS_RECORDS_UPDATES_FILE_NAME = "cds-records-updates.xml"
 
 
-# TODO: remove in production
-def write_message(msg, stream=None):
-    """Replaces invenio.bibtask.write_message for test purposes."""
-    print msg
-
-
 def get_record_ids():
     """Return a list of record ids for 'CERN People' collection."""
     return perform_request_search(cc="CERN People")
